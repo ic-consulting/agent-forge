@@ -13,8 +13,9 @@ Skills for Replit Agent, following the [Agent Skills specification](https://agen
 | `performance-assessment` | CPU, memory, I/O and latency |
 | `security-assessment` | Security sweep with a secrets scanner |
 | `testing-patterns` | Test strategy by language |
+| `ui-design` | Intentional, non-generic UI: type, colour, layout, states, copy |
 
-The last six are adapted from `configs/skills/`: the checklist moved to `references/`, and Claude Code-specific paths and agent references were removed. Keep the two copies in sync by hand.
+`ui-design` is original to this folder. `api-design-patterns`, `database-optimization`, `frontend-accessibility`, `performance-assessment`, `security-assessment` and `testing-patterns` are adapted from `configs/skills/`: the checklist moved to `references/`, and Claude Code-specific paths and agent references were removed. Keep the two copies in sync by hand.
 
 ## Connecting Replit
 
