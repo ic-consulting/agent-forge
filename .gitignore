@@ -53,3 +53,5 @@ framework_agents_test.go
 
 # Local Install
 installer.sh
+
+CLAUDE.md
